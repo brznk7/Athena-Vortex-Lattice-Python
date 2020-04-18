@@ -1,0 +1,7 @@
+load AVLINput.avl
+OPER
+A A 9
+X
+ST
+Out\AVLOut_Alpha9.st
+QUIT
